@@ -1,0 +1,16 @@
+body, html{
+    height: 100%;
+    background-color: bisque;
+}
+
+.card_holder {
+    background-color: rgb(253, 242, 224);
+    width: 50%;
+    height: 50%;
+}
+
+.centered {
+    position: fixed;
+    top: 25%;
+    left: 25%;
+  }
